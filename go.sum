@@ -359,6 +359,8 @@ github.com/pact-foundation/pact-go v1.0.4/go.mod h1:uExwJY4kCzNPcHRj+hCR/HBbOOIw
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/patcharp/golib v0.3.3 h1:2sLP81X1olRK5YBpCKlTQut7J4dh+uTWY6RFazKVsZI=
 github.com/patcharp/golib v0.3.3/go.mod h1:yhzit0vZgGWglk6nqNwYzQ3APVFveYogpuchP8DirI4=
+github.com/patcharp/golib v0.3.4 h1:rrv44jrevJ/lEG/9ZuHX5+hwnvLbhRB1Z8tDmjX5o7o=
+github.com/patcharp/golib v0.3.4/go.mod h1:yhzit0vZgGWglk6nqNwYzQ3APVFveYogpuchP8DirI4=
 github.com/paulmach/orb v0.2.1/go.mod h1:91bG5A8qKNOiZtlKc0BqKMB3O5kWfRQorTwo8BZ2B/0=
 github.com/paulmach/protoscan v0.2.0/go.mod h1:2c55sl1Hu6/tgRfc8Y8zADsxuSCYC2IrPh0JCqP/yrw=
 github.com/pborman/uuid v1.2.0/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=

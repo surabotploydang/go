@@ -75,3 +75,4 @@ testem.log
 /deploy/db
 
 nodemon.json
+main.go
